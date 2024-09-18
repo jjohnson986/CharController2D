@@ -1,2 +1,5 @@
-# CharController2D
-Character Controller for 2D characters in Unity
+# Platformer
+Using various Unity features
+- Cinemachine
+- UIToolkit
+- New Input System
